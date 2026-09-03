@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>End of Term Notes</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="wrap">
+    <header>
+      <p class="kicker">TERM REPORT &mdash; PERSONAL NOTES</p>
+      <h1>A note from your teacher</h1>
+      <p class="sub">Type your full name exactly as it appears on your class list, then press Enter to see your progress and message for this term.</p>
+    </header>
+
+    <form id="lookup-form" class="lookup" autocomplete="off">
+      <input
+        type="text"
+        id="name-input"
+        placeholder="e.g. Ava Thompson"
+        aria-label="Your full name"
+        required
+      >
+      <button type="submit" id="go">Find my note</button>
+    </form>
+    <p class="hint">Spelling matters, but capitals and extra spaces don't.</p>
+
+    <div id="not-found">
+      We couldn't find that name on the list. Double check the spelling matches your class roster &mdash; ask your teacher if it still doesn't turn up.
+    </div>
+
+    <div id="result">
+      <div class="card">
+        <div class="stamp">TERM<br>COMPLETE</div>
+        <p class="for-line">PREPARED FOR</p>
+        <h2 class="student-name" id="out-name"></h2>
+        <div class="progress-line" id="out-progress"></div>
+        <div class="message" id="out-message"></div>
+      </div>
+    </div>
+
+    <footer>Only you can see this by typing your own name &mdash; no student list is shown on this page.</footer>
+  </div>
+
+  <script src="students-data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
