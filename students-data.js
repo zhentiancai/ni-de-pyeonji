@@ -54,16 +54,18 @@ I'd love to see you take a bit more risk next term — raise your hand with the 
   },
   {
     name: "Fifah",
-    progress: "85.38 - LULUS · \"Cikgu Kita🤫\"",
+    progress: "85.38 - LULUS🥳 · \"Cikgu Kita🤫\"",
     message: `Mentor Words:
     
-\"Selamat ya, cikgu dah lulus!🥳 Jangan lupa untuk perkaya kosakatanya dan banyak-banyak latihan ngomong atau ngobrol sama teman yang juga belajar bahasa mandarin atau yang sudah lebih ahli, jadi lebih terlatih lagi untuk *speaking*nya.\"
+"Selamat ya, cikgu dah lulus!🥳 Jangan lupa untuk perkaya kosakatanya dan banyak-banyak latihan ngomong atau ngobrol sama teman yang juga belajar bahasa mandarin atau yang sudah lebih ahli, jadi lebih terlatih lagi untuk *speaking*nya."
 
-\"Selamat yaa, akhirnya lulus. Pasti dah bosan kan dengar kami ngurangin nilai mulu wkwk, *but* itu buat latih kalian agar lebih konsisten lagi. Perbanyak kosakata dan semangat terus belajarnya.\"
+"Selamat yaa, akhirnya lulus. Pasti dah bosan kan dengar kami ngurangin nilai mulu wkwk, *but* itu buat latih kalian agar lebih konsisten lagi. Perbanyak kosakata dan semangat terus belajarnya."
 
 Co-Mentor Words:
 
-\"duta berak 1 dan 2.\"
+"Cikkguuu!!! Selamat yaa ahayyy lulus juga akhirnyoooo!!!
+
+Ga adaa catatan soal absen... Tapi tolong untuk lebih aktif lagii yaa cikguuu!"
 
 — SJTU Team`
   },
@@ -78,7 +80,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Aku jarang berinteraksi sama Aisah niii.... Untuk absen dan yang lain aman sii tapi tolong untuk ke depannya lebih aktif dan sering-sering *raise hand* yaa, Aisah..... Selain ituu sudah bagusss...."
 
 — SJTU Team`
 },
@@ -94,7 +96,7 @@ Terima kasih sudah banyak membantu tugas co-mentor, ya! Hmm... catatannya apa ya
 
 Co-Mentor Words:
 
-"prememory"
+"Iihiiyyy akhirnya gimana? Seneng, ga, lulus, Bu Ketu? Terima kasih yaa sudah banyak membantu tugas kami sebagai *co-mentor*..... Hmmm apa lagi yaaa.... Oohhh!! Jangan lupa daftar jadi pegawai kopdes yaaa soalnya udah cocok ituu setiap dikasih instruksi siap, *laoshi*! Baik, *laoshi*! Hehehe bercandaa yaaa.... Pokoknya, terima kasih banyak atas semua dedikasi yang sudah kamu berikan."
 
 — SJTU Team`
 },
@@ -109,7 +111,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Dania... Hmmm apaa yaa.... Ooh iyaa, pesan untuk Dania mohon lebih perhatikan lagi pengumuman dan *rules* yang sudah dijelaskan..... Bertanya itu tidak apa dan tidak dipermasalahkan, tetapi jika sudah dijelaskan kembali dan kamu tidak melakukan sesuai instruksi itu juga akan berdampak ke nilai kamu sendiri. Oke, yaa?? Semangat!!!"
 
 — SJTU Team`
 },
@@ -124,7 +126,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Oohoooo Bu Sekreeee.... Terima kasih banyak atas dedikasi yang sudah kamu berikan... Terima kasih banyak sudah banyak membantu tugas *co-mentor*. Kalo isi absen jangan lupa di*screenshot-screenshot* yaa siapa tau ga masuk di rekapan Wkwkkwk. Tetap semangat teruss untuk belajar yaaa, Bu Sekre...."
 
 — SJTU Team`
 },
@@ -139,7 +141,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Untuk Fan mohon diperhatikan lagi *rules* dan catatan-catatan yang telah diberikan oleh *mentor*. Semua orang juga punya kesibukan..... Jadi, kami harap apa yang sudah kamu mulaii sekarang kamu bisa lebih berusaha lagi untuk terus maju dan lebih aktif lagi, jika diberi catatan ituuu artinya bukannn untuk menyusahkan tetapi melatih apa yang memang dirasa kurang. Jadi, kamu harus berusaha untuk mengerjakannya. Jangan takut, jangan minder untuk bertanya."
 
 — SJTU Team`
 },
@@ -150,11 +152,11 @@ Co-Mentor Words:
 
 "Gak banyak, sih untuk Hana. Dipertahankan performanya dan jangan lupa untuk tetap teliti!! Semangat!"
 
-"Wahh, selamatt Hana. Semangat yang sangat baik, konsisten sekalii. Tetap pertahankan dan tingkatkan lagi, *wishlist* bisa berbahasa Mandarin dengan lancar kecapai.🥳"
+"Wahh, selamatt Hana. Semangat yang sangat baik, konsisten sekalii. Tetap pertahankan dan tingkatkan lagi, *wishlist* bisa berbahasa Mandarin dengan lancar tercapai.🥳"
 
 Co-Mentor Words:
 
-"prememory"
+"Untukk Hana ga ada sii yaa sepertinya... Soalnya kita juga jarang interaksi wkkwkwk.... Mungkin dipertahankan atau mungkin lebih, lebih semangat lagi untuk ke depannya yaaa! Udah bagus kok, tapi kalo bisa lebih, kenapa engga??? Iyaa kan.... Semangat teruss yaa."
 
 — SJTU Team`
 },
@@ -172,7 +174,7 @@ Ga deng. Lebih teliti aja sih buat Kiswuri, ya."
 
 Co-Mentor Words:
 
-"prememory"
+"*Skipp Skipp* ini *skip* ajaa wkwkkw. Ga ada catatan sii untuk Kiswuri *all gooddddd*, cuma mungkin jangan keseringan nawar aja sii biar ga diminusin wkwkwkkwk. Ubur-ubur ikan lele, stress leee"
 
 — SJTU Team`
 },
@@ -187,7 +189,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Machikooooo kalo sakitt izin aja gapapa ga usah maksaaa ikuttt kelasss... Aku yang takutt jadinya... wkwkwkk. Ga ada sii sebenernya catatan untuk Machiko. Pertahankan semangat yang membara ituuu."
 
 — SJTU Team`
 },
@@ -202,7 +204,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Apaa yaa catatannya..... Oohh! Tolong  kalo mau izin jangan sukaa dadakannnn hehehee takut ga kebaca pesannya kalo dadakannn...  Ooh iya, dan juga izinnya tolong untuk ke depannya dikurangi, absen kamu banyak kuning-kuningnyaaa.... Selain itu catatannya, ga ada lagii ga ada masalah."
 
 — SJTU Team`
 },
@@ -217,7 +219,9 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Melissa *omo, omo* sayanggg sekalii tidak bisa ikut ujiann T.T
+
+Tolong untuk ke depannya lebih teliti lagi dengan *deadline* tugas dan absen.... Jangan ketiduran lagii saat jadwal kelas T.T"
 
 — SJTU Team`
 },
@@ -232,7 +236,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Nabila pacar peceye alias Park Chanyeol *omo, omo* bagaimana rasanya menjadi pacar Chanyeol..... Untuk Nabila ga ada catatan sii yaaaa. Cuma mungkin ke depannya bisa lebih, lebih, lebih lagi performanyaa... Iya aku tauu mungkin kemarin sibukk banget skripsi, sidang dll tapi masih bisa ikut kelas jugaaaa, yaaa... akuu sudah bilang kamu hebatt pollll *omaygattt* bintang 10."
 
 — SJTU Team`
 },
@@ -247,7 +251,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Ini dia nih yang aktif pas di kelas🤤 keren bangettt pertahankan terus yaa semangatnya. Gak ada catatan yang gimana-gimana sih buat Any, pokoknya udah bagus banget. Terus semangat belajarnya yaa, jangan kasih kendor!"
 
 — SJTU Team`
 },
@@ -262,7 +266,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Ilaaa!! Ini juga mantap banget lumayan aktif di kelas dan rajin banget *raise hand*! gokilll🤙🏻 Pertahankan yaa, Ila! Seneng, deh, lihatnya kalo pada berani aktif gitu. Untuk ke depannya, makin sering-sering lagi yaa interaksinya, udah *good* banget pokoknya!"
 
 — SJTU Team`
 },
@@ -271,13 +275,13 @@ Co-Mentor Words:
   progress: "42.93 - TIDAK LULUS😢 · \"*Laoshi*, aku gak bisa ikut ujian?😭😭😭\"",
   message: `Mentor Words:
 
-"Huhuhu... sayang sekali Azra tidak bisa mengikuti ujian, ya... Tapi ya mau gimana lagi. *Rules are rules.* Semoga kedepannya, kamu lebih memperhatikan lagi untuk peraturan, lebih teliti dalam tugas, dsb yaaa. Jangan lupa perbanyak latihan untuk nadanya juga. Semangat!"
+"Huhuhu... sayang sekali Azra tidak bisa mengikuti ujian, ya... Tapi ya mau gimana lagi. *Rules are rules.* Semoga ke depannya, kamu lebih memperhatikan lagi untuk peraturan, lebih teliti dalam tugas, dsb yaaa. Jangan lupa perbanyak latihan untuk nadanya juga. Semangat!"
 
 "Tidak menyangka udah di detik-detik terakhir tapi tidak bisa lanjut ke tahap akhir (ujian), *cause* ada satu syarat yang terlewatkan. Kelas berikutnya harap lebih diperhatikan lagi, lebih aktif, pelafalan dan nada dilatih, juga kosakata diperbanyak. Tetap semangat Azraa!"
 
 Co-Mentor Words:
 
-"prememory"
+"Azraaa! Hmmm apa yaa... kita lumayan jarang interaksi nih wkwkwk. Tapi overall aman-aman aja kok! Pesan dari kami mungkin ke depannya bisa lebih aktif lagi, yaa, di kelas, jangan malu-malu buat nanya atau *raise hand*. Semangat teruss, Azra!"
 
 — SJTU Team`
 },
@@ -288,11 +292,11 @@ Co-Mentor Words:
 
 "Lebih sering lagi aktif di kelas, ya! Jangan ragu untuk bertanya kalau tidak paham terhadap materi. Lalu juga perbanyak latihan (yang utama!). DAN tolongg lebih teliti lagi. Semangat!"
 
-"*First of all*, selamat yaa, akhirnya lulus juga! Ini baru permulaan untuk hal kedepannya. Saran dari aku, usahakan lebih aktif lagi di kelas, materinya di*review* lagi sebelum *batch* depan, dan perbanyak kosakata juga latihan buat kalimat *simple*. Semangatt!"
+"*First of all*, selamat yaa, akhirnya lulus juga! Ini baru permulaan untuk hal ke depannya. Saran dari aku, usahakan lebih aktif lagi di kelas, materinya di*review* lagi sebelum *batch* depan, dan perbanyak kosakata juga latihan buat kalimat *simple*. Semangatt!"
 
 Co-Mentor Words:
 
-"prememory"
+"Rahma... wah selamat yaaa akhirnya lulus jugaaa! Untuk catatan sih aman yaa, cuma pengen ngingetin aja biar ke depannya lebih semangat lagi dan makin nampak pas kelas. Udah bagus kok, tapi pasti bisa lebih bagus lagi dong, yaaa? Iya, kan... Semangat terusss!"
 
 — SJTU Team`
 },
@@ -307,7 +311,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Reynaldiii! Hmmm ini nih, di awal-awal kelas aktif bangett *omaygattt*, tapi kok akhir-akhir ini suka menghilang?? Wkwkwk lagi sibuk banget yaaa? Gapapa sih, paham kok kalo pada punya kesibukan, tapi sayang banget loh kalo performanya jadi turun. *Next time* tolong lebih diseimbangkan lagi yaa, jadwalnya biar ga ketinggalan. Semangat Aldi!!"
 
 — SJTU Team`
 },
@@ -322,7 +326,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Ummyyy!!! Hmmm buat Ummy, aku perhatiin selama ini masih kurang aktif nih di kelas... Sayang banget lohh! Pesan dari aku, semoga ke depannya Ummy bisa lebih aktif lagi dan berani *show up* yaaa. Jangan nunggu dipanggil atau ditunjuk dulu baru bersuara, yuk belajar inisiatif buat *raise hand* atau nanya duluan. Semangat terusss ya, Ummy!"
 
 — SJTU Team`
 },
@@ -337,7 +341,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Uswaaa! Halo Uswa, selamat yaaa! Untuk Uswa catatannya ga aneh-aneh sih, cuma tolong dipertahankan aja yang udah bagus, dan kalo bisa ditingkatkan lagi interaksinya yaaa. Jangan sungkan-sungkan buat nimbrung di kelas. Semangat terus belajarnya!!"
 
 — SJTU Team`
 },
@@ -352,7 +356,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Xaveriaaa! Kemauan dan semangat belajar bahasa Mandarinnya udah mantap, tapi pas di kelas kok masih kurang aktif niiiih? Sayang banget lhooo. Ke depannya tolong lebih berani dan banyak interaksi lagi yaaa! Jangan nunggu dipanggil duluan baru jawab hehehe. Harus lebih inisiatif yaa biar bahasa Mandarinnya makin *cas cis cus*. Semangattt terus Xaveria!"
 
 — SJTU Team`
 },
@@ -367,7 +371,7 @@ Co-Mentor Words:
 
 Co-Mentor Words:
 
-"prememory"
+"Yuniarrr! Hmmm apa yaa buat Yuniar... *All good* sih sejauh ini, ga ada masalah! Cuma pesannya tetep sama yaa, jangan lelah buat belajar dan tingkatkan lagi performanya di kelas biar makin bersinar wkwkwk. Kalo ada yang bingung langsung tanya aja, oke?? Sukses terus yaaa, Yuniar!"
 
 — SJTU Team`
 },
