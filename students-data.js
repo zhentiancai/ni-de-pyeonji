@@ -81,7 +81,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Linda",
   progress: "84.87 - LULUS🥳 · \"OTW jadi Pegawai Kopdes, ya? (Siap! Siap! Every time)😮😮\"",
@@ -97,7 +97,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Dania",
   progress: "80.75 - LULUS🥳 · \"Duta Nyimak😳😳\"",
@@ -112,7 +112,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Ella",
   progress: "77.03 - TIDAK LULUS😢 · \"Galak banget, nih? 😤😠\"",
@@ -127,7 +127,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Fan",
   progress: "36.77 - TIDAK LULUS😢 · \"Aslinya emang unik, sih... 🤔🤔\"",
@@ -142,7 +142,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Hana",
   progress: "96.40 - LULUS🥳 · \"Semangat, semangat, semangat, semangat. DHUAARR!🔥🔥🔥\"",
@@ -157,7 +157,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Kiswuri",
   progress: "98.99 - LULUS🥳 · \"Duta Nawar🏆🥇🎖️\"",
@@ -175,7 +175,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Machiko",
   progress: "76.72 - TIDAK LULUS😢 · \"*Multitasking* banget!🙀🙀\"",
@@ -190,7 +190,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Marni",
   progress: "69.54 - TIDAK LULUS😢 · \"Ayo lebih berani lagi!💪🏻💪🏻\"",
@@ -205,7 +205,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Melisa",
   progress: "48.35 - TIDAK LULUS😢 · \"Aku siap mendengar curhatanmu~😉😉\"",
@@ -220,7 +220,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Nabila",
   progress: "78.32 - LULUS🥳 · \"Pacar Chanyeol\" - \"Nilainya kurang gak, *Laoshi*?😢😭\"",
@@ -235,7 +235,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Any",
   progress: "83.21 - LULUS🥳 · \"Aduh, jangan susah-susah, *Laoshi* 😭\"",
@@ -250,7 +250,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Ila",
   progress: "83.79 - LULUS🥳 · \"Konsisten banget! *Approved!*🏆🥇🎖️\"",
@@ -265,7 +265,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Azra",
   progress: "42.93 - TIDAK LULUS😢 · \"*Laoshi*, aku gak bisa ikut ujian?😭😭😭\"",
@@ -280,7 +280,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Rahma",
   progress: "79.19 - LULUS🥳 · \"*Laoshi*, boleh minta link absen ga🥺🙏🏻\"",
@@ -295,7 +295,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Aldi",
   progress: "50.61 - TIDAK LULUS😢 · \"*Xie xie, Laoshi*🙏🏻🙏🏻🙏🏻\"",
@@ -310,7 +310,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Tifa",
   progress: "70.09 - TIDAK LULUS😢 · \"Duta JJ🤟🏻😎🤟🏻😎\"",
@@ -325,7 +325,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Uswa",
   progress: "86.27 - LULUS🥳 · \"Si Paling Takut Nilainya Dikurangi🤣🤣\"",
@@ -340,7 +340,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Xaveria",
   progress: "64.79 - TIDAK LULUS😢 · \"Bentar, *Laoshi*✋🏻🤚🏻\"",
@@ -355,7 +355,7 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 {
   name: "Yuniar",
   progress: "75.14 - TIDAK LULUS😢 · \"Bener gak, *Laoshi*?\"\"Eh, udah bener belum ya, *Laoshi*?\"",
@@ -370,5 +370,5 @@ Co-Mentor Words:
 "prememory"
 
 — SJTU Team`
-}
+},
 ];
