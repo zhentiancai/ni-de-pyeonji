@@ -40,6 +40,7 @@ For next term, work on trusting your first instinct in class discussions — you
     message: `Selamat! Anda dinobatkan sebagai Duta Berak Nasional!
 
 Teruslah Berak, Jangan Menyerah!💪🏻💩
+
 — Prabowo ❤️ Teddy`
   },
   {
@@ -51,4 +52,322 @@ I'd love to see you take a bit more risk next term — raise your hand with the 
 
 — Mr. Santos`
   },
+  {
+    name: "Fifah",
+    progress: "LULUS · \"Cikgu Kita\"",
+    message: `Mentor Words:
+    
+\"Selamat ya cikgu dah lulus! Jangan lupa untuk perkaya kosakatanya dan banyak-banyak latihan ngomong atau ngobrol sama teman yang juga belajar bahasa mandarin atau yang sudah lebih ahli, jadi lebih terlatih lagi untuk speakingnya.\"
+
+\"Selamat yaa, akhirnya lulus. Pasti dah bosan kan dengar kami ngurangin nilai mulu wkwk, but itu buat latih kalian agar lebih konsisten lagi. Perbanyak kosakata dan semangat terus belajarnya.\"
+
+Co-Mentor Words:
+
+\"duta berak 1 dan 2.\"
+
+— SJTU Team`
+  },
+  {
+  name: "Aisah",
+  progress: "LULUS🥳 · \"Diam, Diam, Memang Diam😬\"",
+  message: `Mentor Words:
+
+"Jujur saja, seharusnya kamu bisa dapat nilai lebih... Namun kamu banyak skip tugas. Hfftt sedihnyoo. Next, lebih teliti lagi, yaa."
+
+"Hmm, congratss ya. Lebih aktif lagi di kelas selanjutnya."
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "Linda",
+  progress: "LULUS🥳 · \"OTW jadi Pegawai Kopdes, ya? (Siap! Siap! Every time)\"",
+  message: `Mentor Words:
+
+"Wowiw, ketua kelas yang siap! Siap! mulu nih wkwkw
+Terima kasih sudah banyak membantu tugas co-mentor, ya! Hmm... catatannya apa ya Linda ini. Mungkin perbanyak latihan nada aja ya. Banyak-banyak latihan kayak menulis dan membaca ya, Linda...
+"
+
+"Yuhuu, lulus akhirnya. Beban setengah dah hilang sepertinya wkwk, km satu ini beda emang ingatkan yang lain tugas tapi drinya sendiri lupa hahah. Semangat terus belajar dan perbanyak kosakatanya, next dah bisa lancar nihh."
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "Dania",
+  progress: "LULUS🥳 · \"Duta Nyimak😳😳\"",
+  message: `Mentor Words:
+
+"Catatan untuk Dania, lebih banyak aktif di kelas lagi, ya. Kadang emang banyak hal yang di luar kendali kita, misal jam pulang yang bertabrakan dengan jam kelas, namun karena sudah memutuskan untuk mengikuti kelas, maka sebaiknya lebih diperhatikan lagi. Kemudian, tolong lebih teliti lagi, ya... Tugas, dll. Perbanyak kosakata, banyak-banyak latihan membaca, terutama dalam pelafalan (masih kurang! Terutama pada zi, ci, si, shi, chi, zhi) dan tentunya, nada. Kalau bisa sih, meskipun nilai kamu eligible untuk lanjut, saya menyarankan kamu untuk mengulang kelas karena pelafalan masih kurang. Semangat!"
+
+"For Dania, first congratss ya. Keluarkan semangat kamu yang membara itu, ketika kelas berlangsung. Pelafalan dilatih lagi dan perbanyak kosakata tentunya, susah ya di kelas kami? Iya jika dipikir, but itu buat push kalian lebih aktif lagi, tugas seumbrak wkwk, gak nyangka juga sih. Jika kamu akhirnya memutuskan buat lanjut HSK 2, konsisten ya sampai akhir dan semangatt yoo."
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "Ella",
+  progress: "TIDAK LULUS😢 · \"Galak banget, nih?\"",
+  message: `Mentor Words:
+
+"First of all, semangat dan semoga betah dengan kerjaan barunya! Itu kerjaannya keren banget sih. Catatan saya untuk Ella di batch ini, sebenarnya knowledge-wise kamu sudah bagus, namun (mungkin karena kesibukan juga) kamu sempat beberapa kali miss tugas ya... sayang sekali. Tapi gapapa, ini artinya kesempatan untuk latihan lebih banyak dan memperdalam pemahaman materi. Tetap semangat dan jangan ragu untuk keluar dari zona nyaman ya, Ella!
+"
+
+"Yahh, tetap semangat Ella! Gak lulus bukan berarti gagal, tapi diberi waktu untuk memperdalam dan belajar lebih banyak lagi. Karena kesibukan kamu waktu awal kelas jadi banyak tugas yang kelewat. Semangat terus dan lancar kerjaannya."
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "Fan",
+  progress: "TIDAK LULUS😢 · \"Aslinya emang unik, sih...\"",
+  message: `Mentor Words:
+
+"Well, well, well. Fan 同学.... Saya rasa kamu sendiri juga sudah bisa menilai sendiri, ya apa yang masih perlu untuk ditingkatkan dalam Bahasa Mandarin kamu... Kalau belum, coba dicek-cek lagi yaaa catatan yang sudah saya dan Nurul laoshi berikan. Pelafalan memang sulit, apalagi kalau kamu jarang latihan. Dan setelah pelafalan, masih ada nada/shengdiao yang harus kamu latih juga. Jadi, kalau kamu memang serius ingin bisa berbahasa Mandarin, maka kamu juga mau gak mau harus berusaha lebih ekstra untuk mencapai apa yang kamu mau. Dan juga, ketika kamu butuh bantuan orang dan diberikan masukan, tolong lebih diperhatikan lagi, ya cara komunikasinya. Semangat!"
+
+"Fan fan, dah ekspek juga klau gak lanjut ke next class. But bukan berarti dah judge dari awal, tapi kamu masih banyak bagian yang kurang, mulai dari pelafalan (utama) dan nada. Tugas terakhir video cukup ada kemajuan tidak separah sebelumnya, tapi masih kurang. Catatan yang diberikan selama batch ini diperhatikan dan dilatih terus bagian yang kurang itu. I know kamu suka belajar bahasa, banyak juga ikut kelas bahasa lain. So konsisten pada hal yang kamu sukai dan serius. Tetap semangat, terus belajar, dan selesaikan HSK 1 ini."
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
+{
+  name: "",
+  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  message: `Mentor Words:
+
+""
+
+""
+
+Co-Mentor Words:
+
+"prememory"
+
+— SJTU Team`
+}
 ];
