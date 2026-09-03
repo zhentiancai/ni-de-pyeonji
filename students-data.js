@@ -50,4 +50,5 @@ Teruslah Berak, Jangan Menyerah!💪🏻💩
 I'd love to see you take a bit more risk next term — raise your hand with the half-formed idea, not just the fully-worked-out one. You're ready for that.
 
 — Mr. Santos`
+  },
 ];
