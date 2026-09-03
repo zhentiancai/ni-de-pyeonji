@@ -35,6 +35,14 @@ For next term, work on trusting your first instinct in class discussions — you
 — Ms. Reyes`
   },
   {
+    name: "Friska",
+    progress: "Grade: A+ · Konsisten Berak",
+    message: `Selamat! Anda dinobatkan sebagai Duta Berak Nasional!
+
+Teruslah Berak, Jangan Menyerah!💪🏻💩
+— Prabowo ❤️ Teddy`
+  },
+  {
     name: "Priya Nair",
     progress: "Grade: A · Consistent across all subjects",
     message: `Steady is the word I'd use for your term — steady effort, steady curiosity, steady support for the classmates sitting near you. Teachers notice that kind of consistency even when it doesn't come with fireworks.
@@ -42,5 +50,4 @@ For next term, work on trusting your first instinct in class discussions — you
 I'd love to see you take a bit more risk next term — raise your hand with the half-formed idea, not just the fully-worked-out one. You're ready for that.
 
 — Mr. Santos`
-  },
 ];
