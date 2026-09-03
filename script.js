@@ -4,6 +4,13 @@ function normalize(str) {
   return str.toLowerCase().trim().replace(/\s+/g, ' ');
 }
 
+function escapeHtml(str) {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+}
+
 // Build a lookup map once, so 40+ students is instant either way.
 const STUDENT_INDEX = new Map(
   STUDENTS.map(student => [normalize(student.name), student])
@@ -29,10 +36,10 @@ function showResult(student) {
     .map(p => p.trim())
     .filter(Boolean)
     .forEach(paragraph => {
-      const p = document.createElement('p');
-      p.textContent = paragraph;
-      outMessage.appendChild(p);
-    });
+  const p = document.createElement('p');
+  p.innerHTML = escapeHtml(paragraph).replace(/\*(.+?)\*/g, '<em>$1</em>');
+  outMessage.appendChild(p);
+});
 
   notFoundEl.classList.remove('show');
   resultEl.classList.add('show');
