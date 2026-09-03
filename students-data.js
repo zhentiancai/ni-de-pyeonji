@@ -146,13 +146,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Hana",
+  progress: "LULUS🥳 · \"Semangat, semangat, semangat, semangat. DHUAARR!\"",
   message: `Mentor Words:
 
-""
+"Gak banyak, sih untuk Hana. Dipertahankan performanya dan jangan lupa untuk tetap teliti!! Semangat!"
 
-""
+"Wahh, selamatt Hana. Semangat yang sangat baik, konsisten sekalii. Tetap pertahankan dan tingkatkan lagi, *wishlist* bisa berbahasa Mandarin dengan lancar kecapai."
 
 Co-Mentor Words:
 
@@ -161,13 +161,17 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Kiswuri",
+  progress: "LULUS🥳 · \"Duta Nawar\"",
   message: `Mentor Words:
 
-""
+"Duh malasnyo.
+Wks
+Tetap menyerah dan jangan semangat. Wkwkwk
+Ga deng. Lebih teliti aja sih buat Kiswuri, ya.
+"
 
-""
+"Apa yaa, Rank 1 banget nihh tebakan kamu salah wkwk. *Congratss* dan semangat terus pepet *shuaige* itu ahahh, ceria sekalii kamu."
 
 Co-Mentor Words:
 
@@ -176,13 +180,14 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Machiko",
+  progress: "TIDAK LULUS😢 · \"*Multitasking* banget!\"",
   message: `Mentor Words:
 
-""
+"Chikooo banyak-banyak latihan membaca, ya! Pelafalan masih belum memenuhi syarat dan nada juga masih belum konsisten. Masih suka berubah-ubah meskipun masih membaca 1 kalimat yang sama. Sekali lagi, perbanyak latihan membaca dan juga jangan lupa perkaya kosakata!
+"
 
-""
+"Tetap semangat dan banyak latihan lagi Machikoo. Terutama pelafalan dan nada masih kurang, belum konsisten. Walau gak lulus berarti diberi waktu buat terus belajar lagi, jadi semangat terus dan tetap jaga kesehatan."
 
 Co-Mentor Words:
 
@@ -191,13 +196,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Marni",
+  progress: "TIDAK LULUS😢 · \"Ayo lebih berani lagi!\"",
   message: `Mentor Words:
 
-""
+"Untuk Marni, perkaya kosakata dan perbanyak latihan membaca serta membuat kalimat! Semangat!"
 
-""
+"Marnii, sejauh ini *progress* kamu sudah baik. Tapi terkait pelafalan, nada, kosakata masih perlu dilatih lagi. Juga pemahaman terkait materi diperdalam. Aku gak banyak kata-kata, kamu dah berusaha dan bertahan sampai sejauh ini itu bagus banget, tidak menyerah. Jadi, kesempatan berikutnya akan hasilkan yang lebih baik lagi. Semangat terus buat Marni~"
 
 Co-Mentor Words:
 
