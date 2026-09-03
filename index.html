@@ -3,45 +3,79 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>End of Term Notes</title>
+<title>给你的学期心意 &middot; A Note Just For You</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700&family=Baloo+2:wght@500;600;700&family=Quicksand:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+  <!-- Hanging lanterns -->
+  <div class="lanterns" aria-hidden="true">
+    <svg class="lantern lantern-left" viewBox="0 0 60 90" xmlns="http://www.w3.org/2000/svg">
+      <line x1="30" y1="0" x2="30" y2="14" stroke="#B8863B" stroke-width="2"/>
+      <rect x="24" y="10" width="12" height="5" rx="1" fill="#B8863B"/>
+      <ellipse cx="30" cy="46" rx="22" ry="28" fill="#C1272D"/>
+      <ellipse cx="30" cy="46" rx="22" ry="28" fill="none" stroke="#D9A441" stroke-width="2"/>
+      <line x1="12" y1="30" x2="48" y2="30" stroke="#D9A441" stroke-width="1.5" opacity="0.7"/>
+      <line x1="9" y1="46" x2="51" y2="46" stroke="#D9A441" stroke-width="1.5" opacity="0.7"/>
+      <line x1="12" y1="62" x2="48" y2="62" stroke="#D9A441" stroke-width="1.5" opacity="0.7"/>
+      <text x="30" y="52" text-anchor="middle" font-size="16" fill="#F6D680" font-family="'Noto Serif SC', serif">福</text>
+      <rect x="26" y="73" width="8" height="4" rx="1" fill="#B8863B"/>
+      <line x1="30" y1="77" x2="30" y2="90" stroke="#D9A441" stroke-width="2"/>
+    </svg>
+    <svg class="lantern lantern-right" viewBox="0 0 60 90" xmlns="http://www.w3.org/2000/svg">
+      <line x1="30" y1="0" x2="30" y2="14" stroke="#B8863B" stroke-width="2"/>
+      <rect x="24" y="10" width="12" height="5" rx="1" fill="#B8863B"/>
+      <ellipse cx="30" cy="46" rx="22" ry="28" fill="#C1272D"/>
+      <ellipse cx="30" cy="46" rx="22" ry="28" fill="none" stroke="#D9A441" stroke-width="2"/>
+      <line x1="12" y1="30" x2="48" y2="30" stroke="#D9A441" stroke-width="1.5" opacity="0.7"/>
+      <line x1="9" y1="46" x2="51" y2="46" stroke="#D9A441" stroke-width="1.5" opacity="0.7"/>
+      <line x1="12" y1="62" x2="48" y2="62" stroke="#D9A441" stroke-width="1.5" opacity="0.7"/>
+      <text x="30" y="52" text-anchor="middle" font-size="16" fill="#F6D680" font-family="'Noto Serif SC', serif">乐</text>
+      <rect x="26" y="73" width="8" height="4" rx="1" fill="#B8863B"/>
+      <line x1="30" y1="77" x2="30" y2="90" stroke="#D9A441" stroke-width="2"/>
+    </svg>
+  </div>
+
   <div class="wrap">
     <header>
-      <p class="kicker">KATA-KATA HARI INI &mdash; SJTU TEAM</p>
-      <h1>祝贺你完成这个学期！</h1>
-      <p class="sub">Selamat sudah menyelesaikan batch ini! Masukkan nama kamu pada kolom di bawah ini untuk melihat pesan kami untukmu.</p>
+      <p class="tag">学期心意 &nbsp;&middot;&nbsp; a little note, just for you</p>
+      <h1>Your End-of-Term Note</h1>
+      <p class="sub">Type your full name exactly as it appears on your class list, then press Enter to open your note.</p>
     </header>
 
     <form id="lookup-form" class="lookup" autocomplete="off">
       <input
         type="text"
         id="name-input"
-        placeholder="e.g. Bina"
+        placeholder="e.g. Ava Thompson"
         aria-label="Your full name"
         required
       >
-      <button type="submit" id="go">走吧!</button>
+      <button type="submit" id="go">开启 Open it</button>
     </form>
     <p class="hint">Spelling matters, but capitals and extra spaces don't.</p>
 
     <div id="not-found">
-      We couldn't find that name on the list. Double-check the spelling matches your class roster &mdash; ask your teacher if it still doesn't turn up.
+      <span class="nf-icon">🐼</span> We couldn't find that name on the list. Double check the spelling matches your class roster &mdash; ask your teacher if it still doesn't turn up.
     </div>
 
     <div id="result">
       <div class="card">
-        <div class="stamp">TERM<br>COMPLETE</div>
-        <p class="for-line">PREPARED FOR</p>
+        <div class="seal">印</div>
+        <svg class="cloud-corner cloud-tl" viewBox="0 0 60 60" aria-hidden="true"><path d="M4 30c0-8 6-13 13-13 2-9 10-14 18-11 6-8 18-6 21 3 8 1 13 8 11 15" fill="none" stroke="#D9A441" stroke-width="2"/></svg>
+        <svg class="cloud-corner cloud-br" viewBox="0 0 60 60" aria-hidden="true"><path d="M4 30c0-8 6-13 13-13 2-9 10-14 18-11 6-8 18-6 21 3 8 1 13 8 11 15" fill="none" stroke="#D9A441" stroke-width="2"/></svg>
+        <p class="for-line">为你准备 &middot; prepared for</p>
         <h2 class="student-name" id="out-name"></h2>
         <div class="progress-line" id="out-progress"></div>
         <div class="message" id="out-message"></div>
+        <p class="panda-signoff">🐼 加油！ keep it up!</p>
       </div>
     </div>
 
-    <footer>Only you can see this by typing your own name</footer>
+    <footer>Only you can see this by typing your own name &mdash; no student list is shown on this page.</footer>
   </div>
 
   <script src="students-data.js"></script>
