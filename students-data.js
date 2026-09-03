@@ -54,12 +54,12 @@ I'd love to see you take a bit more risk next term — raise your hand with the 
   },
   {
     name: "Fifah",
-    progress: "LULUS · \"Cikgu Kita\"",
+    progress: "85.38 - LULUS · \"Cikgu Kita🤫\"",
     message: `Mentor Words:
     
-\"Selamat ya cikgu dah lulus! Jangan lupa untuk perkaya kosakatanya dan banyak-banyak latihan ngomong atau ngobrol sama teman yang juga belajar bahasa mandarin atau yang sudah lebih ahli, jadi lebih terlatih lagi untuk speakingnya.\"
+\"Selamat ya, cikgu dah lulus!🥳 Jangan lupa untuk perkaya kosakatanya dan banyak-banyak latihan ngomong atau ngobrol sama teman yang juga belajar bahasa mandarin atau yang sudah lebih ahli, jadi lebih terlatih lagi untuk *speaking*nya.\"
 
-\"Selamat yaa, akhirnya lulus. Pasti dah bosan kan dengar kami ngurangin nilai mulu wkwk, but itu buat latih kalian agar lebih konsisten lagi. Perbanyak kosakata dan semangat terus belajarnya.\"
+\"Selamat yaa, akhirnya lulus. Pasti dah bosan kan dengar kami ngurangin nilai mulu wkwk, *but* itu buat latih kalian agar lebih konsisten lagi. Perbanyak kosakata dan semangat terus belajarnya.\"
 
 Co-Mentor Words:
 
@@ -69,12 +69,12 @@ Co-Mentor Words:
   },
   {
   name: "Aisah",
-  progress: "LULUS🥳 · \"Diam, Diam, Memang Diam😬\"",
+  progress: "92.50 - LULUS🥳 · \"Diam, Diam, Memang Diam😬\"",
   message: `Mentor Words:
 
-"Jujur saja, seharusnya kamu bisa dapat nilai lebih... Namun kamu banyak skip tugas. Hfftt sedihnyoo. Next, lebih teliti lagi, yaa."
+"Jujur saja, seharusnya kamu bisa dapat nilai lebih... Namun, kamu banyak *skip* tugas. Hfftt sedihnyoo. *Next*, lebih teliti lagi, yaa.✍🏻"
 
-"Hmm, congratss ya. Lebih aktif lagi di kelas selanjutnya."
+"Hmm, *congratss* ya. Lebih aktif lagi di kelas selanjutnya."
 
 Co-Mentor Words:
 
@@ -84,14 +84,13 @@ Co-Mentor Words:
 }
 {
   name: "Linda",
-  progress: "LULUS🥳 · \"OTW jadi Pegawai Kopdes, ya? (Siap! Siap! Every time)\"",
+  progress: "84.87 - LULUS🥳 · \"OTW jadi Pegawai Kopdes, ya? (Siap! Siap! Every time)😮😮\"",
   message: `Mentor Words:
 
 "Wowiw, ketua kelas yang siap! Siap! mulu nih wkwkw
-Terima kasih sudah banyak membantu tugas co-mentor, ya! Hmm... catatannya apa ya Linda ini. Mungkin perbanyak latihan nada aja ya. Banyak-banyak latihan kayak menulis dan membaca ya, Linda...
-"
+Terima kasih sudah banyak membantu tugas co-mentor, ya! Hmm... catatannya apa ya Linda ini. Mungkin perbanyak latihan nada aja ya. Banyak-banyak latihan kayak menulis dan membaca ya, Linda..."
 
-"Yuhuu, lulus akhirnya. Beban setengah dah hilang sepertinya wkwk, km satu ini beda emang ingatkan yang lain tugas tapi drinya sendiri lupa hahah. Semangat terus belajar dan perbanyak kosakatanya, next dah bisa lancar nihh."
+"Yuhuu, lulus akhirnya. Beban setengah dah hilang sepertinya wkwk, KM satu ini beda emang ingatkan yang lain tugas, tapi dirinya sendiri lupa hahah😂. Semangat terus belajar dan perbanyak kosakatanya, *next* dah bisa lancar nihh."
 
 Co-Mentor Words:
 
@@ -101,12 +100,12 @@ Co-Mentor Words:
 }
 {
   name: "Dania",
-  progress: "LULUS🥳 · \"Duta Nyimak😳😳\"",
+  progress: "80.75 - LULUS🥳 · \"Duta Nyimak😳😳\"",
   message: `Mentor Words:
 
-"Catatan untuk Dania, lebih banyak aktif di kelas lagi, ya. Kadang emang banyak hal yang di luar kendali kita, misal jam pulang yang bertabrakan dengan jam kelas, namun karena sudah memutuskan untuk mengikuti kelas, maka sebaiknya lebih diperhatikan lagi. Kemudian, tolong lebih teliti lagi, ya... Tugas, dll. Perbanyak kosakata, banyak-banyak latihan membaca, terutama dalam pelafalan (masih kurang! Terutama pada zi, ci, si, shi, chi, zhi) dan tentunya, nada. Kalau bisa sih, meskipun nilai kamu eligible untuk lanjut, saya menyarankan kamu untuk mengulang kelas karena pelafalan masih kurang. Semangat!"
+"Catatan untuk Dania, lebih banyak aktif di kelas lagi, ya. Kadang emang banyak hal yang di luar kendali kita, misal jam pulang yang bertabrakan dengan jam kelas. Namun, karena sudah memutuskan untuk mengikuti kelas, maka sebaiknya lebih diperhatikan lagi. Kemudian, tolong lebih teliti lagi, ya... Tugas, dll. Perbanyak kosakata, banyak-banyak latihan membaca, terutama dalam pelafalan (masih kurang! Terutama pada *zi, ci, si, shi, chi, zhi*) dan tentunya, nada. Kalau bisa sih, meskipun nilai kamu *eligible* untuk lanjut, saya menyarankan kamu untuk mengulang kelas karena pelafalan masih kurang. Semangat!"
 
-"For Dania, first congratss ya. Keluarkan semangat kamu yang membara itu, ketika kelas berlangsung. Pelafalan dilatih lagi dan perbanyak kosakata tentunya, susah ya di kelas kami? Iya jika dipikir, but itu buat push kalian lebih aktif lagi, tugas seumbrak wkwk, gak nyangka juga sih. Jika kamu akhirnya memutuskan buat lanjut HSK 2, konsisten ya sampai akhir dan semangatt yoo."
+"*For Dania, first, congratss* ya. Keluarkan semangat kamu yang membara itu, ketika kelas berlangsung. Pelafalan dilatih lagi dan perbanyak kosakata tentunya, susah ya di kelas kami? Iya jika dipikir, *but* itu buat push kalian lebih aktif lagi, tugas seumbrak wkwk, gak nyangka juga sih. Jika kamu akhirnya memutuskan buat lanjut HSK 2, konsisten ya sampai akhir dan semangatt yoo."
 
 Co-Mentor Words:
 
@@ -116,13 +115,12 @@ Co-Mentor Words:
 }
 {
   name: "Ella",
-  progress: "TIDAK LULUS😢 · \"Galak banget, nih?\"",
+  progress: "77.03 - TIDAK LULUS😢 · \"Galak banget, nih? 😤😠\"",
   message: `Mentor Words:
 
-"First of all, semangat dan semoga betah dengan kerjaan barunya! Itu kerjaannya keren banget sih. Catatan saya untuk Ella di batch ini, sebenarnya knowledge-wise kamu sudah bagus, namun (mungkin karena kesibukan juga) kamu sempat beberapa kali miss tugas ya... sayang sekali. Tapi gapapa, ini artinya kesempatan untuk latihan lebih banyak dan memperdalam pemahaman materi. Tetap semangat dan jangan ragu untuk keluar dari zona nyaman ya, Ella!
-"
+"*First of all*, semangat dan semoga betah dengan kerjaan barunya! Itu kerjaannya keren banget sih. Catatan saya untuk Ella di *batch* ini, sebenarnya *knowledge-wise* kamu sudah bagus, namun (mungkin karena kesibukan juga) kamu sempat beberapa kali *miss* tugas ya... sayang sekali☹️. Tapi gapapa, ini artinya kesempatan untuk latihan lebih banyak dan memperdalam pemahaman materi. Tetap semangat dan jangan ragu untuk keluar dari zona nyaman ya, Ella!"
 
-"Yahh, tetap semangat Ella! Gak lulus bukan berarti gagal, tapi diberi waktu untuk memperdalam dan belajar lebih banyak lagi. Karena kesibukan kamu waktu awal kelas jadi banyak tugas yang kelewat. Semangat terus dan lancar kerjaannya."
+"Yahh, tetap semangat, Ella! Gak lulus bukan berarti gagal, tapi diberi waktu untuk memperdalam dan belajar lebih banyak lagi. Karena kesibukan kamu waktu awal kelas, jadi banyak tugas yang kelewat. Semangat terus dan lancar kerjaannya."
 
 Co-Mentor Words:
 
@@ -132,12 +130,12 @@ Co-Mentor Words:
 }
 {
   name: "Fan",
-  progress: "TIDAK LULUS😢 · \"Aslinya emang unik, sih...\"",
+  progress: "36.77 - TIDAK LULUS😢 · \"Aslinya emang unik, sih... 🤔🤔\"",
   message: `Mentor Words:
 
-"Well, well, well. Fan 同学.... Saya rasa kamu sendiri juga sudah bisa menilai sendiri, ya apa yang masih perlu untuk ditingkatkan dalam Bahasa Mandarin kamu... Kalau belum, coba dicek-cek lagi yaaa catatan yang sudah saya dan Nurul laoshi berikan. Pelafalan memang sulit, apalagi kalau kamu jarang latihan. Dan setelah pelafalan, masih ada nada/shengdiao yang harus kamu latih juga. Jadi, kalau kamu memang serius ingin bisa berbahasa Mandarin, maka kamu juga mau gak mau harus berusaha lebih ekstra untuk mencapai apa yang kamu mau. Dan juga, ketika kamu butuh bantuan orang dan diberikan masukan, tolong lebih diperhatikan lagi, ya cara komunikasinya. Semangat!"
+"*Well, well, well.* Fan *同学*.... Saya rasa kamu sendiri juga sudah bisa menilai sendiri, ya apa yang masih perlu untuk ditingkatkan dalam Bahasa Mandarin kamu... Kalau belum, coba dicek-cek lagi yaaa catatan yang sudah saya dan Nurul laoshi berikan. Pelafalan memang sulit, apalagi kalau kamu jarang latihan. Dan setelah pelafalan, masih ada nada/*shengdiao* yang harus kamu latih juga. Jadi, kalau kamu memang serius ingin bisa berbahasa Mandarin, maka kamu juga mau gak mau harus berusaha lebih ekstra untuk mencapai apa yang kamu mau. Dan juga, ketika kamu butuh bantuan orang dan diberikan masukan, tolong lebih diperhatikan lagi, ya cara komunikasinya. Semangat!"
 
-"Fan fan, dah ekspek juga klau gak lanjut ke next class. But bukan berarti dah judge dari awal, tapi kamu masih banyak bagian yang kurang, mulai dari pelafalan (utama) dan nada. Tugas terakhir video cukup ada kemajuan tidak separah sebelumnya, tapi masih kurang. Catatan yang diberikan selama batch ini diperhatikan dan dilatih terus bagian yang kurang itu. I know kamu suka belajar bahasa, banyak juga ikut kelas bahasa lain. So konsisten pada hal yang kamu sukai dan serius. Tetap semangat, terus belajar, dan selesaikan HSK 1 ini."
+"Fan fan, dah ekspek juga kalau gak lanjut ke *next class. But* bukan berarti dah *judge* dari awal, tapi kamu masih banyak bagian yang kurang, mulai dari pelafalan (utama) dan nada. Tugas terakhir video cukup ada kemajuan tidak separah sebelumnya, tapi masih kurang. Catatan yang diberikan selama *batch* ini diperhatikan dan dilatih terus bagian yang kurang itu. *I know* kamu suka belajar bahasa, banyak juga ikut kelas bahasa lain. *So* konsisten pada hal yang kamu sukai dan serius. Tetap semangat, terus belajar, dan selesaikan HSK 1 ini.💪🏻"
 
 Co-Mentor Words:
 
@@ -147,12 +145,12 @@ Co-Mentor Words:
 }
 {
   name: "Hana",
-  progress: "LULUS🥳 · \"Semangat, semangat, semangat, semangat. DHUAARR!\"",
+  progress: "96.40 - LULUS🥳 · \"Semangat, semangat, semangat, semangat. DHUAARR!🔥🔥🔥\"",
   message: `Mentor Words:
 
 "Gak banyak, sih untuk Hana. Dipertahankan performanya dan jangan lupa untuk tetap teliti!! Semangat!"
 
-"Wahh, selamatt Hana. Semangat yang sangat baik, konsisten sekalii. Tetap pertahankan dan tingkatkan lagi, *wishlist* bisa berbahasa Mandarin dengan lancar kecapai."
+"Wahh, selamatt Hana. Semangat yang sangat baik, konsisten sekalii. Tetap pertahankan dan tingkatkan lagi, *wishlist* bisa berbahasa Mandarin dengan lancar kecapai.🥳"
 
 Co-Mentor Words:
 
@@ -162,14 +160,13 @@ Co-Mentor Words:
 }
 {
   name: "Kiswuri",
-  progress: "LULUS🥳 · \"Duta Nawar\"",
+  progress: "98.99 - LULUS🥳 · \"Duta Nawar🏆🥇🎖️\"",
   message: `Mentor Words:
 
 "Duh malasnyo.
 Wks
 Tetap menyerah dan jangan semangat. Wkwkwk
-Ga deng. Lebih teliti aja sih buat Kiswuri, ya.
-"
+Ga deng. Lebih teliti aja sih buat Kiswuri, ya."
 
 "Apa yaa, Rank 1 banget nihh tebakan kamu salah wkwk. *Congratss* dan semangat terus pepet *shuaige* itu ahahh, ceria sekalii kamu."
 
@@ -181,13 +178,12 @@ Co-Mentor Words:
 }
 {
   name: "Machiko",
-  progress: "TIDAK LULUS😢 · \"*Multitasking* banget!\"",
+  progress: "76.72 - TIDAK LULUS😢 · \"*Multitasking* banget!🙀🙀\"",
   message: `Mentor Words:
 
-"Chikooo banyak-banyak latihan membaca, ya! Pelafalan masih belum memenuhi syarat dan nada juga masih belum konsisten. Masih suka berubah-ubah meskipun masih membaca 1 kalimat yang sama. Sekali lagi, perbanyak latihan membaca dan juga jangan lupa perkaya kosakata!
-"
+"Chikooo banyak-banyak latihan membaca, ya! Pelafalan masih belum memenuhi syarat dan nada juga masih belum konsisten. Masih suka berubah-ubah meskipun masih membaca 1 kalimat yang sama. Sekali lagi, perbanyak latihan membaca dan juga jangan lupa perkaya kosakata!"
 
-"Tetap semangat dan banyak latihan lagi Machikoo. Terutama pelafalan dan nada masih kurang, belum konsisten. Walau gak lulus berarti diberi waktu buat terus belajar lagi, jadi semangat terus dan tetap jaga kesehatan."
+"Tetap semangat dan banyak latihan lagi, Machikoo. Terutama pelafalan dan nada masih kurang, belum konsisten. Walau gak lulus berarti diberi waktu buat terus belajar lagi, jadi semangat terus dan tetap jaga kesehatan."
 
 Co-Mentor Words:
 
@@ -197,7 +193,7 @@ Co-Mentor Words:
 }
 {
   name: "Marni",
-  progress: "TIDAK LULUS😢 · \"Ayo lebih berani lagi!\"",
+  progress: "69.54 - TIDAK LULUS😢 · \"Ayo lebih berani lagi!💪🏻💪🏻\"",
   message: `Mentor Words:
 
 "Untuk Marni, perkaya kosakata dan perbanyak latihan membaca serta membuat kalimat! Semangat!"
@@ -211,13 +207,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Melisa",
+  progress: "48.35 - TIDAK LULUS😢 · \"Aku siap mendengar curhatanmu~😉😉\"",
   message: `Mentor Words:
 
-""
+"Sayang sekali Melisa gak bisa ikut ujian, ya. Di kesempatan selanjutnya, tolong lebih teliti dan jangan ragu untuk mencari tahu apa yang kamu lewatkan. Semangat!"
 
-""
+"Yahh, sisa satu langkah lagi untuk bisa mengikuti ujian, tapi sayang ada *rules* yang dilewatkan. Diperhatikan lagi ya hal-hal seperti itu, di kelas selanjutnya kamu pasti bisa *on point*. Juga jangan suka mengerjakan tugas mepet *deadline*, nanti keteteran. Tetap semangatt, ditunggu cerita selanjutnya wkwkw."
 
 Co-Mentor Words:
 
@@ -226,13 +222,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Nabila",
+  progress: "78.32 - LULUS🥳 · \"Pacar Chanyeol\" - \"Nilainya kurang gak, *Laoshi*?😢😭\"",
   message: `Mentor Words:
 
-""
+"Hai, pacar Chanyeol. Lulus nih... pasti sibuk banget ya kelas di saat skripsi. Dan kayaknya kamu juga *volunteer*? Mungkin karena itu juga kamu jadi kurang maksimal di kelas. *You have potentials*, oleh karena itu, saya pribadi menyarankan kamu ambil ulang saja HSK 1B. Perdalam materi dan perbanyak latihan membaca (yang utama!). Semangat!"
 
-""
+"Wihh *congratss*, ya! Sangat *hectic* pasti ikut kelas, skripsian, *and volunteer*-an. *But you did it,* jika kamu memutuskan buat lanjut, saran aku, di*review* lagi materinya. Jadi tidak terlalu kesusahan dan bisa mengimbangi, semangat terus Bilaa."
 
 Co-Mentor Words:
 
@@ -241,13 +237,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Any",
+  progress: "83.21 - LULUS🥳 · \"Aduh, jangan susah-susah, *Laoshi* 😭\"",
   message: `Mentor Words:
 
-""
+"Meskipun sempat sakit dan hampir tidak bisa mengikuti ujian, tapi kamu sudah membuktikan ke diri kamu sendiri bahwa kamu bisa. Catatan dari saya, perbanyak lagi latihan membaca, ya. Nada dan pelafalanmu kadang gak konsisten. Semangat!"
 
-""
+"Selamatt yaa, kamu berhasil melakukannya! Perbanyak lagi kosakatanya, latihan buat kalimat, dan banyak baca agar pelafalannya lebih terlatih. *Next class* HSK 2 tantangan akan lebih komplit jadi persiapkan diri, semangat terus pokoknya."
 
 Co-Mentor Words:
 
@@ -256,13 +252,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Ila",
+  progress: "83.79 - LULUS🥳 · \"Konsisten banget! *Approved!*🏆🥇🎖️\"",
   message: `Mentor Words:
 
-""
+"Wah, Ila! Perkembangannya sangat pesat sekali dari awal pertemuan. Selamat ya, Ila! Pertahankan konsistensi lafal dan nadanya, ya. Lalu juga perbanyak kosakata agar lebih bervariasi kalimatnya. Selamat melanjutkan ke level 2!"
 
-""
+"Jujur, perkembangan kamu sangat okee banget *and* hasilnya kamu dapatkan (lulus kann), *congratss.* Jaga konsistensinya dan jangan cepat puas, perbanyak kosakata dan latihan buat kalimat. Semangat terus yaa."
 
 Co-Mentor Words:
 
@@ -271,13 +267,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Azra",
+  progress: "42.93 - TIDAK LULUS😢 · \"*Laoshi*, aku gak bisa ikut ujian?😭😭😭\"",
   message: `Mentor Words:
 
-""
+"Huhuhu... sayang sekali Azra tidak bisa mengikuti ujian, ya... Tapi ya mau gimana lagi. *Rules are rules.* Semoga kedepannya, kamu lebih memperhatikan lagi untuk peraturan, lebih teliti dalam tugas, dsb yaaa. Jangan lupa perbanyak latihan untuk nadanya juga. Semangat!"
 
-""
+"Tidak menyangka udah di detik-detik terakhir tapi tidak bisa lanjut ke tahap akhir (ujian), *cause* ada satu syarat yang terlewatkan. Kelas berikutnya harap lebih diperhatikan lagi, lebih aktif, pelafalan dan nada dilatih, juga kosakata diperbanyak. Tetap semangat Azraa!"
 
 Co-Mentor Words:
 
@@ -286,13 +282,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Rahma",
+  progress: "79.19 - LULUS🥳 · \"*Laoshi*, boleh minta link absen ga🥺🙏🏻\"",
   message: `Mentor Words:
 
-""
+"Lebih sering lagi aktif di kelas, ya! Jangan ragu untuk bertanya kalau tidak paham terhadap materi. Lalu juga perbanyak latihan (yang utama!). DAN tolongg lebih teliti lagi. Semangat!"
 
-""
+"*First of all*, selamat yaa, akhirnya lulus juga! Ini baru permulaan untuk hal kedepannya. Saran dari aku, usahakan lebih aktif lagi di kelas, materinya di*review* lagi sebelum *batch* depan, dan perbanyak kosakata juga latihan buat kalimat *simple*. Semangatt!"
 
 Co-Mentor Words:
 
@@ -301,13 +297,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Aldi",
+  progress: "50.61 - TIDAK LULUS😢 · \"*Xie xie, Laoshi*🙏🏻🙏🏻🙏🏻\"",
   message: `Mentor Words:
 
-""
+"Sayang sekali tidak bisa ikut ujian ya, Aldi. Gak apa-apa. Jadikan pelajaran untuk *next opportunity*. Jangan berkecil hati, dicoba lagi *batch* selanjutnya, ya. Catatan untuk Aldi, lebih teliti lagi dan peraturan kelas lebih diperhatikan lagi. Jangan ragu untuk mengkomunikasikan kendala atau apapun terkait pembelajaran. Untuk pelafalan kamu sudah lumayan, namun nadanya kadang gak konsisten. Banyak-banyak dilatih, ya!"
 
-""
+"Aldi, sejauh ini *progress* sangat baik, tapi, di akhir kelas kamu melewatkan 1 hal penting, mungkin karena kesibukan atau apa jadi tidak dikerjakan. Peraturan adalah hal yang mutlak dan sudah disampaikan, *so* perhatikan lagi hal-hal tersebut. Jangan patah semangat, anggap ini sebagai kesempatan buat kamu untuk belajar lebih banyak lagi. Semangat!"
 
 Co-Mentor Words:
 
@@ -316,13 +312,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Tifa",
+  progress: "70.09 - TIDAK LULUS😢 · \"Duta JJ🤟🏻😎🤟🏻😎\"",
   message: `Mentor Words:
 
-""
+"Dalam belajar, yang perlu kita fokuskan adalah pemahamannya, bukan berapa banyak salah atau benarnya. Jadi, pastikan kamu paham dan mengerti apa yang kamu kerjakan dulu, ya! Lebih perhatikan lagi apa yang disampaikan oleh *mentor* dan *co-mentor*. Perhatian pada diri sendiri, jangan terlalu bergantung kepada orang lain. Jangan terlalu banyak minder dan takut, itu sama aja kamu menyabotase diri kamu sendiri. Pesan/catatan ini jangan cuma dibaca, ya... tapi tolong bangeettt diresapi dan diamalkan dengan baik. Demi kebaikanmu sendiri juga. Jangan lupa juga selalu latihan membaca dan perbanyak kosakata. Pelafalan dan nada masih gak konsisten. Semangat!"
 
-""
+"Hmm Tifa, gimana yaa? Bingung aku😀😃. Keaktifan kamu sudah bagus, tapi terkait materi dan tugas yang telah diberikan masih terdapat banyak bagian yang tidak terlalu dipahami sepertinya, sehingga kesalahan yang dibuat pun cukup banyak. *We knoww* kamu dah berusaha dan selalu nanyain terkait pelafalan yang kurang, itu sangat bagus. Tapi kamu pun juga harus bisa melihat kurangnya kamu di bagian mana lagi. Juga perhatikan masukan yang diberikan ketika kelas berlangsung. Terkait ujian kemarin dari segi kosakata kamu masih sangat kurang, *so* perbanyak kosakatanya terutama hsk 1 (bisa dipahami) dan latihan buat kalimat *simple*. Semangat buat Tifa, jangan menyerah, kamu pasti bisa!"
 
 Co-Mentor Words:
 
@@ -331,13 +327,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Uswa",
+  progress: "86.27 - LULUS🥳 · \"Si Paling Takut Nilainya Dikurangi🤣🤣\"",
   message: `Mentor Words:
 
-""
+"Akhirnya ya, Uswaa semua usaha terbayarkan. Selamat sudah lulus! Pertahankan semangat belajar dan tentu saja, jangan sampai kendor latihannya agar semakin lancar. Semangat!"
 
-""
+"*Yeahh congratss* Uswa! *Next class* lebih semangat lagii dan pertahankan performanya. Kosakata diperbanyak lagi, latihan baca, buat kalimat semuanya dilatih teruss, agar makin okee. Semangat!"
 
 Co-Mentor Words:
 
@@ -346,13 +342,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Xaveria",
+  progress: "64.79 - TIDAK LULUS😢 · \"Bentar, *Laoshi*✋🏻🤚🏻\"",
   message: `Mentor Words:
 
-""
+"Xaveria, ketika kamu tidak mengetahui sesuatu, tidak ada salahnya mengatakan bahwa kamu tidak tahu. Jangan memaksakan sesuatu yang kamu sendiri tidak tahu apakah itu benar atau salah. PERBANYAK LATIHAN membaca dan menulis. Terutama membaca, karena pelafalan kamu masih kurang banget, apalagi nada. Lalu juga kurang-kurangi pakai *translation tools* atau AI, yaaa. Boleh saja menggunakan, namun harus tahu kapan dan di mana bisa memakainya. *Good luck!*"
 
-""
+"Xaveria, yahh. Kamu sendiri pun mungkin tau kurangnya di bagian mana untuk beberapa hal. Terutama pelafalan (dipelajari lagi cara lafalnya gimana) kadang jika dicontohkan dah bisa, tapi setelahnya balik lagi ke setelan awal 🙂 Nada pun masih kurang. Terkait materi selama KBM dan tugas yang diberikan aku rasa cukup oke, tapi gak tau itu kamu benar-benar paham/tidak (harusnya paham sih). Jangan kebiasaan menggunakan AI or semacamnya apalagi saat ujian, itu sama saja kamu memperlihatkan kepada kami bahwa kamu memang belum benar-benar bisa. Jadi untuk kelas berikutnya, kamu lebih aktif dan bertanya jika ada hal yang tidak dipahami, jangan mengiyakan sesuatu yang kamu sendiri pun masih bingung. Aku harap ini tidak membuatmu menyerah, tapi dijadikan pelajaran dan tidak mengulang kesalahan yang sama. *Nextt* lebih baik lagi dan semangatt Xaveria!"
 
 Co-Mentor Words:
 
@@ -361,13 +357,13 @@ Co-Mentor Words:
 — SJTU Team`
 }
 {
-  name: "",
-  progress: "LULUS🥳TIDAK LULUS😢 · \"\"",
+  name: "Yuniar",
+  progress: "75.14 - TIDAK LULUS😢 · \"Bener gak, *Laoshi*?\"\"Eh, udah bener belum ya, *Laoshi*?\"",
   message: `Mentor Words:
 
-""
+"*Oh naurr* Yuniar kamu tidak lulus, ya.,... Selisih tipis, namun mau bagaimana lagi... Untuk pelafalan sudah lumayan, namun perlu latihan lagi di *shengdiao*, yaa. Jangan menyerah dan jangan berkecil hati, tetap semangat dan saya yakin *next batch* kamu akan lulus ke level selanjutnya! *Jiayou!*"
 
-""
+"Hhuhu, nilainya belum mencapai KKM, tapi kamu dah bagus kok. Hanya perlu ditingkatkan lagi pemahamannya terkait materi, jika ada yang tidak dipahami, jangan segan untuk bertanya. Perbanyak kosakata dan latihan buat kalimat *simple*. *Next batch*, pasti bisa lulus dengan nilai dan pemahaman yang memuaskan. Jadi, anggap ini sebagai kesempatan kamu belajar lebih banyak lagi. Jangan patah semangat, terus belajar, *cause* kita mau *healing* ke China hehe. *Good luck!*"
 
 Co-Mentor Words:
 
