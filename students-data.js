@@ -54,7 +54,7 @@ I'd love to see you take a bit more risk next term — raise your hand with the 
   },
   {
     name: "Fifah",
-    progress: "85.38 - LULUS🥳 · \"Cikgu Kita🤫\"",
+    progress: "LULUS🥳 · \"Cikgu Kita🤫\"",
     message: `Mentor Words:
     
 "Selamat ya, cikgu dah lulus!🥳 Jangan lupa untuk perkaya kosakatanya dan banyak-banyak latihan ngomong atau ngobrol sama teman yang juga belajar bahasa mandarin atau yang sudah lebih ahli, jadi lebih terlatih lagi untuk *speaking*nya."
@@ -71,7 +71,7 @@ Ga adaa catatan soal absen... Tapi tolong untuk lebih aktif lagii yaa cikguuu!"
   },
   {
   name: "Aisah",
-  progress: "92.50 - LULUS🥳 · \"Diam, Diam, Memang Diam😬\"",
+  progress: "LULUS🥳 · \"Diam, Diam, Memang Diam😬\"",
   message: `Mentor Words:
 
 "Jujur saja, seharusnya kamu bisa dapat nilai lebih... Namun, kamu banyak *skip* tugas. Hfftt sedihnyoo. *Next*, lebih teliti lagi, yaa.✍🏻"
@@ -86,7 +86,7 @@ Co-Mentor Words:
 },
 {
   name: "Linda",
-  progress: "84.87 - LULUS🥳 · \"OTW jadi Pegawai Kopdes, ya? (Siap! Siap! Every time)😮😮\"",
+  progress: "LULUS🥳 · \"OTW jadi Pegawai Kopdes, ya? (Siap! Siap! Every time)😮😮\"",
   message: `Mentor Words:
 
 "Wowiw, ketua kelas yang siap! Siap! mulu nih wkwkw
@@ -102,7 +102,7 @@ Co-Mentor Words:
 },
 {
   name: "Dania",
-  progress: "80.75 - LULUS🥳 · \"Duta Nyimak😳😳\"",
+  progress: "LULUS🥳 · \"Duta Nyimak😳😳\"",
   message: `Mentor Words:
 
 "Catatan untuk Dania, lebih banyak aktif di kelas lagi, ya. Kadang emang banyak hal yang di luar kendali kita, misal jam pulang yang bertabrakan dengan jam kelas. Namun, karena sudah memutuskan untuk mengikuti kelas, maka sebaiknya lebih diperhatikan lagi. Kemudian, tolong lebih teliti lagi, ya... Tugas, dll. Perbanyak kosakata, banyak-banyak latihan membaca, terutama dalam pelafalan (masih kurang! Terutama pada *zi, ci, si, shi, chi, zhi*) dan tentunya, nada. Kalau bisa sih, meskipun nilai kamu *eligible* untuk lanjut, saya menyarankan kamu untuk mengulang kelas karena pelafalan masih kurang. Semangat!"
@@ -117,7 +117,7 @@ Co-Mentor Words:
 },
 {
   name: "Ella",
-  progress: "77.03 - TIDAK LULUS😢 · \"Galak banget, nih? 😤😠\"",
+  progress: "TIDAK LULUS😢 · \"Galak banget, nih? 😤😠\"",
   message: `Mentor Words:
 
 "*First of all*, semangat dan semoga betah dengan kerjaan barunya! Itu kerjaannya keren banget sih. Catatan saya untuk Ella di *batch* ini, sebenarnya *knowledge-wise* kamu sudah bagus, namun (mungkin karena kesibukan juga) kamu sempat beberapa kali *miss* tugas ya... sayang sekali☹️. Tapi gapapa, ini artinya kesempatan untuk latihan lebih banyak dan memperdalam pemahaman materi. Tetap semangat dan jangan ragu untuk keluar dari zona nyaman ya, Ella!"
@@ -132,7 +132,7 @@ Co-Mentor Words:
 },
 {
   name: "Fan",
-  progress: "36.77 - TIDAK LULUS😢 · \"Aslinya emang unik, sih... 🤔🤔\"",
+  progress: "TIDAK LULUS😢 · \"Aslinya emang unik, sih... 🤔🤔\"",
   message: `Mentor Words:
 
 "*Well, well, well.* Fan *同学*.... Saya rasa kamu sendiri juga sudah bisa menilai sendiri, ya apa yang masih perlu untuk ditingkatkan dalam Bahasa Mandarin kamu... Kalau belum, coba dicek-cek lagi yaaa catatan yang sudah saya dan Nurul laoshi berikan. Pelafalan memang sulit, apalagi kalau kamu jarang latihan. Dan setelah pelafalan, masih ada nada/*shengdiao* yang harus kamu latih juga. Jadi, kalau kamu memang serius ingin bisa berbahasa Mandarin, maka kamu juga mau gak mau harus berusaha lebih ekstra untuk mencapai apa yang kamu mau. Dan juga, ketika kamu butuh bantuan orang dan diberikan masukan, tolong lebih diperhatikan lagi, ya cara komunikasinya. Semangat!"
@@ -147,7 +147,7 @@ Co-Mentor Words:
 },
 {
   name: "Hana",
-  progress: "96.40 - LULUS🥳 · \"Semangat, semangat, semangat, semangat. DHUAARR!🔥🔥🔥\"",
+  progress: "LULUS🥳 · \"Semangat, semangat, semangat, semangat. DHUAARR!🔥🔥🔥\"",
   message: `Mentor Words:
 
 "Gak banyak, sih untuk Hana. Dipertahankan performanya dan jangan lupa untuk tetap teliti!! Semangat!"
@@ -162,7 +162,7 @@ Co-Mentor Words:
 },
 {
   name: "Kiswuri",
-  progress: "98.99 - LULUS🥳 · \"Duta Nawar🏆🥇🎖️\"",
+  progress: "LULUS🥳 · \"Duta Nawar🏆🥇🎖️\"",
   message: `Mentor Words:
 
 "Duh malasnyo.
@@ -180,7 +180,7 @@ Co-Mentor Words:
 },
 {
   name: "Machiko",
-  progress: "76.72 - TIDAK LULUS😢 · \"*Multitasking* banget!🙀🙀\"",
+  progress: "TIDAK LULUS😢 · \"*Multitasking* banget!🙀🙀\"",
   message: `Mentor Words:
 
 "Chikooo banyak-banyak latihan membaca, ya! Pelafalan masih belum memenuhi syarat dan nada juga masih belum konsisten. Masih suka berubah-ubah meskipun masih membaca 1 kalimat yang sama. Sekali lagi, perbanyak latihan membaca dan juga jangan lupa perkaya kosakata!"
@@ -195,7 +195,7 @@ Co-Mentor Words:
 },
 {
   name: "Marni",
-  progress: "69.54 - TIDAK LULUS😢 · \"Ayo lebih berani lagi!💪🏻💪🏻\"",
+  progress: "TIDAK LULUS😢 · \"Ayo lebih berani lagi!💪🏻💪🏻\"",
   message: `Mentor Words:
 
 "Untuk Marni, perkaya kosakata dan perbanyak latihan membaca serta membuat kalimat! Semangat!"
@@ -210,7 +210,7 @@ Co-Mentor Words:
 },
 {
   name: "Melisa",
-  progress: "48.35 - TIDAK LULUS😢 · \"Aku siap mendengar curhatanmu~😉😉\"",
+  progress: "TIDAK LULUS😢 · \"Aku siap mendengar curhatanmu~😉😉\"",
   message: `Mentor Words:
 
 "Sayang sekali Melisa gak bisa ikut ujian, ya. Di kesempatan selanjutnya, tolong lebih teliti dan jangan ragu untuk mencari tahu apa yang kamu lewatkan. Semangat!"
@@ -227,7 +227,7 @@ Tolong untuk ke depannya lebih teliti lagi dengan *deadline* tugas dan absen....
 },
 {
   name: "Nabila",
-  progress: "78.32 - LULUS🥳 · \"Pacar Chanyeol\" - \"Nilainya kurang gak, *Laoshi*?😢😭\"",
+  progress: "LULUS🥳 · \"Pacar Chanyeol\" - \"Nilainya kurang gak, *Laoshi*?😢😭\"",
   message: `Mentor Words:
 
 "Hai, pacar Chanyeol. Lulus nih... pasti sibuk banget ya kelas di saat skripsi. Dan kayaknya kamu juga *volunteer*? Mungkin karena itu juga kamu jadi kurang maksimal di kelas. *You have potentials*, oleh karena itu, saya pribadi menyarankan kamu ambil ulang saja HSK 1B. Perdalam materi dan perbanyak latihan membaca (yang utama!). Semangat!"
@@ -242,7 +242,7 @@ Co-Mentor Words:
 },
 {
   name: "Any",
-  progress: "83.21 - LULUS🥳 · \"Aduh, jangan susah-susah, *Laoshi* 😭\"",
+  progress: "LULUS🥳 · \"Aduh, jangan susah-susah, *Laoshi* 😭\"",
   message: `Mentor Words:
 
 "Meskipun sempat sakit dan hampir tidak bisa mengikuti ujian, tapi kamu sudah membuktikan ke diri kamu sendiri bahwa kamu bisa. Catatan dari saya, perbanyak lagi latihan membaca, ya. Nada dan pelafalanmu kadang gak konsisten. Semangat!"
@@ -257,7 +257,7 @@ Co-Mentor Words:
 },
 {
   name: "Ila",
-  progress: "83.79 - LULUS🥳 · \"Konsisten banget! *Approved!*🏆🥇🎖️\"",
+  progress: "LULUS🥳 · \"Konsisten banget! *Approved!*🏆🥇🎖️\"",
   message: `Mentor Words:
 
 "Wah, Ila! Perkembangannya sangat pesat sekali dari awal pertemuan. Selamat ya, Ila! Pertahankan konsistensi lafal dan nadanya, ya. Lalu juga perbanyak kosakata agar lebih bervariasi kalimatnya. Selamat melanjutkan ke level 2!"
@@ -272,7 +272,7 @@ Co-Mentor Words:
 },
 {
   name: "Azra",
-  progress: "42.93 - TIDAK LULUS😢 · \"*Laoshi*, aku gak bisa ikut ujian?😭😭😭\"",
+  progress: "TIDAK LULUS😢 · \"*Laoshi*, aku gak bisa ikut ujian?😭😭😭\"",
   message: `Mentor Words:
 
 "Huhuhu... sayang sekali Azra tidak bisa mengikuti ujian, ya... Tapi ya mau gimana lagi. *Rules are rules.* Semoga ke depannya, kamu lebih memperhatikan lagi untuk peraturan, lebih teliti dalam tugas, dsb yaaa. Jangan lupa perbanyak latihan untuk nadanya juga. Semangat!"
@@ -287,7 +287,7 @@ Co-Mentor Words:
 },
 {
   name: "Rahma",
-  progress: "79.19 - LULUS🥳 · \"*Laoshi*, boleh minta link absen ga🥺🙏🏻\"",
+  progress: "LULUS🥳 · \"*Laoshi*, boleh minta link absen ga🥺🙏🏻\"",
   message: `Mentor Words:
 
 "Lebih sering lagi aktif di kelas, ya! Jangan ragu untuk bertanya kalau tidak paham terhadap materi. Lalu juga perbanyak latihan (yang utama!). DAN tolongg lebih teliti lagi. Semangat!"
@@ -302,7 +302,7 @@ Co-Mentor Words:
 },
 {
   name: "Aldi",
-  progress: "50.61 - TIDAK LULUS😢 · \"*Xie xie, Laoshi*🙏🏻🙏🏻🙏🏻\"",
+  progress: "TIDAK LULUS😢 · \"*Xie xie, Laoshi*🙏🏻🙏🏻🙏🏻\"",
   message: `Mentor Words:
 
 "Sayang sekali tidak bisa ikut ujian ya, Aldi. Gak apa-apa. Jadikan pelajaran untuk *next opportunity*. Jangan berkecil hati, dicoba lagi *batch* selanjutnya, ya. Catatan untuk Aldi, lebih teliti lagi dan peraturan kelas lebih diperhatikan lagi. Jangan ragu untuk mengkomunikasikan kendala atau apapun terkait pembelajaran. Untuk pelafalan kamu sudah lumayan, namun nadanya kadang gak konsisten. Banyak-banyak dilatih, ya!"
@@ -317,7 +317,7 @@ Co-Mentor Words:
 },
 {
   name: "Tifa",
-  progress: "70.09 - TIDAK LULUS😢 · \"Duta JJ🤟🏻😎🤟🏻😎\"",
+  progress: "TIDAK LULUS😢 · \"Duta JJ🤟🏻😎🤟🏻😎\"",
   message: `Mentor Words:
 
 "Dalam belajar, yang perlu kita fokuskan adalah pemahamannya, bukan berapa banyak salah atau benarnya. Jadi, pastikan kamu paham dan mengerti apa yang kamu kerjakan dulu, ya! Lebih perhatikan lagi apa yang disampaikan oleh *mentor* dan *co-mentor*. Perhatian pada diri sendiri, jangan terlalu bergantung kepada orang lain. Jangan terlalu banyak minder dan takut, itu sama aja kamu menyabotase diri kamu sendiri. Pesan/catatan ini jangan cuma dibaca, ya... tapi tolong bangeettt diresapi dan diamalkan dengan baik. Demi kebaikanmu sendiri juga. Jangan lupa juga selalu latihan membaca dan perbanyak kosakata. Pelafalan dan nada masih gak konsisten. Semangat!"
@@ -332,7 +332,7 @@ Co-Mentor Words:
 },
 {
   name: "Uswa",
-  progress: "86.27 - LULUS🥳 · \"Si Paling Takut Nilainya Dikurangi🤣🤣\"",
+  progress: "LULUS🥳 · \"Si Paling Takut Nilainya Dikurangi🤣🤣\"",
   message: `Mentor Words:
 
 "Akhirnya ya, Uswaa semua usaha terbayarkan. Selamat sudah lulus! Pertahankan semangat belajar dan tentu saja, jangan sampai kendor latihannya agar semakin lancar. Semangat!"
@@ -347,7 +347,7 @@ Co-Mentor Words:
 },
 {
   name: "Xaveria",
-  progress: "64.79 - TIDAK LULUS😢 · \"Bentar, *Laoshi*✋🏻🤚🏻\"",
+  progress: "TIDAK LULUS😢 · \"Bentar, *Laoshi*✋🏻🤚🏻\"",
   message: `Mentor Words:
 
 "Xaveria, ketika kamu tidak mengetahui sesuatu, tidak ada salahnya mengatakan bahwa kamu tidak tahu. Jangan memaksakan sesuatu yang kamu sendiri tidak tahu apakah itu benar atau salah. PERBANYAK LATIHAN membaca dan menulis. Terutama membaca, karena pelafalan kamu masih kurang banget, apalagi nada. Lalu juga kurang-kurangi pakai *translation tools* atau AI, yaaa. Boleh saja menggunakan, namun harus tahu kapan dan di mana bisa memakainya. *Good luck!*"
@@ -362,7 +362,7 @@ Co-Mentor Words:
 },
 {
   name: "Yuniar",
-  progress: "75.14 - TIDAK LULUS😢 · \"Bener gak, *Laoshi*?\"\"Eh, udah bener belum ya, *Laoshi*?\"",
+  progress: "TIDAK LULUS😢 · \"Bener gak, *Laoshi*?\"\"Eh, udah bener belum ya, *Laoshi*?\"",
   message: `Mentor Words:
 
 "*Oh naurr* Yuniar kamu tidak lulus, ya.,... Selisih tipis, namun mau bagaimana lagi... Untuk pelafalan sudah lumayan, namun perlu latihan lagi di *shengdiao*, yaa. Jangan menyerah dan jangan berkecil hati, tetap semangat dan saya yakin *next batch* kamu akan lulus ke level selanjutnya! *Jiayou!*"
